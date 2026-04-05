@@ -1,0 +1,20 @@
+# Runtime output files (generated during skill execution)
+posts_raw.json
+posts_processed.json
+reddit_intel_*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
